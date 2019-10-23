@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pickle_Price_Follower", "Pickle_Price_Follower\Pickle_Price_Follower.pyproj", "{BAF24182-3F33-425C-B149-53DBA16CC704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF24182-3F33-425C-B149-53DBA16CC704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF24182-3F33-425C-B149-53DBA16CC704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53220FF4-A2AA-4081-8173-A5F322277256}
+	EndGlobalSection
+EndGlobal
